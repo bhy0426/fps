@@ -1,0 +1,28 @@
+# Unity Cache and User Data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio and MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.DS_Store
+
+# Mac OS specific
+.DS_Store
+
+# Unity Package Manager (UPM)
+/Packages/manifest.json.meta
+/Packages/packages-lock.json
+
+# Optional: Compiled executables and archives
+*.exe
+*.dll
+*.unitypackage
